@@ -20,6 +20,10 @@ Change the order of the pictures
 <video src='https://user-images.githubusercontent.com/80482997/173474688-49e3f07a-4ff1-4bea-93c9-e637076504ab.mp4' width=180/>
 
 Delete the unwanted files
-<video src='https://user-images.githubusercontent.com/80482997/173474597-3387c43a-a248-48a5-863c-5a29e64c01ce.mov' width=180/>
+<video src='https://user-images.githubusercontent.com/80482997/173476974-18d0abbc-e7cc-4514-a3be-1732e8a3ff51.mp4' width=180/>
+
+
+
+
 
 
